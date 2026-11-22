@@ -6,8 +6,6 @@
 
 - 🖥️ Enjoy coding
 
-- 🧩 Latest side project: [Masonry for TasksBoard](https://github.com/HasanPekedis/tasksboard-masonry), a Chrome extension that lays out TasksBoard lists as a masonry grid
-
 - 📫 How to reach me: hasanpekedis365@hotmail.com
 
 - 🧿 My Personal Website: https://hasanpekedis.github.io/
